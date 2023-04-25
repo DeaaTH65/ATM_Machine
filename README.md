@@ -1,4 +1,3 @@
-
 # User's ATM Machine
 
 users = {
